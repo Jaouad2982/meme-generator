@@ -1,6 +1,5 @@
 import React from "react"
 import "../css/header.css"
-import trollface from "../images/troll-face.png"
 
 const Header = () => {
     return (
