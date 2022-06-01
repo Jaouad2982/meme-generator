@@ -1,0 +1,9 @@
+button {
+  width: 100%;
+  background-color: #d1b3c4;
+  border-radius: 5px;
+  margin-top: 15px;
+  border-color: white;
+  font-family: "Cabin", sans-serif;
+  color: white;
+}

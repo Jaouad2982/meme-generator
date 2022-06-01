@@ -1,0 +1,12 @@
+.header {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #e8c2ca;
+}
+
+.meme-image {
+  display: flex;
+  align-items: center;
+}
