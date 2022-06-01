@@ -19,7 +19,7 @@ const MainContent = () => {
         <div>
             <button onClick={handleUrlChange}>Get a new Image</button>
             <div className="image-container">
-                <img src={site} alt="" />
+                <img src={site} alt={memes.name} />
             </div>
 
         </div>
